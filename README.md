@@ -1,6 +1,3 @@
-# startscript
-python script to block ports, games from a list with age-restriction and option to command it remote via ssh
-
 all code is written for debian based linux-systems
 
 # Control Program for Computer System
